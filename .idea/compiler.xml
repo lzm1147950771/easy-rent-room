@@ -12,6 +12,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="parent" target="1.5" />
+      <module name="room" target="1.8" />
       <module name="user" target="1.8" />
     </bytecodeTargetLevel>
   </component>
