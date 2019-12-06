@@ -11,6 +11,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class UserController {
     @RequestMapping()
     public void find(){
-        
+        System.out.print("这是版本（1）");
     }
 }
